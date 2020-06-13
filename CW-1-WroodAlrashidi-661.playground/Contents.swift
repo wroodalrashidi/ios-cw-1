@@ -1,12 +1,9 @@
-import UIKit
 
 let name = "Wrood"
+
 var hobby1 = "reading"
 var hobby2 = "drawing"
 var age = 17
 var height = 160
-print(name)
-print(hobby1)
-print(hobby2)
-print(age)
-print(height)
+
+print ("my name is: ",name, ", and my age is \(age), and my height is: \(height), my hobbies are: \(hobby1), \(hobby2)")
