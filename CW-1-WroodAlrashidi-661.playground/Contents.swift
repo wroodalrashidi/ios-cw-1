@@ -25,22 +25,12 @@ hobby2 < friendHobby2
 height < friendHeight
 age < friendAge
 
-
-name > friendName
-hobby1 > friendHobby1
-hobby2 > friendHobby2
 height > friendHeight
 age > friendAge
 
-name >= friendName
-hobby1 >= friendHobby1
-hobby2 >= friendHobby2
 height >= friendHeight
 age >= friendAge
 
-name <= friendName
-hobby1 <= friendHobby1
-hobby2 <= friendHobby2
 height <= friendHeight
 age <= friendAge
 
