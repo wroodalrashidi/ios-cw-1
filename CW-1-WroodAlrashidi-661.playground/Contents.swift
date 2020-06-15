@@ -6,7 +6,7 @@ var hobby2 = "binge watching"
 var age = 17
 var height = 160
 
-print ("My name is" ,name,", I am \(age) years old, my height is \(height), my hobbies are \(hobby1), and \(hobby2)")
+print ("My name is" ,name,", I am \(age) years old, my height is \(height), my hobbies are \(hobby1), and \(hobby2).")
 
 //Part 2
 //Fouz
@@ -45,3 +45,5 @@ hobby1 != friendHobby1
 hobby2 != friendHobby2
 height != friendHeight
 age != friendAge
+
+print("I am  \(age) years old, and my friend is \(friendAge) years old.")
